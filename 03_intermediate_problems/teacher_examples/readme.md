@@ -1,0 +1,10 @@
+## Teacher Examples - Intermediate Problems
+* Initials.java: [code](./Initials.java), [input file](./Initials.txt)
+* SmurfsCode.java: [code](./SmurfsCode.java), [input file](./SmurfsCode.txt)
+* Tallest.java: [code](./Tallest.java), [input file](./Tallest.txt)
+* prob201404.java: [code](./prob201404.java), [input file](./prob201404.txt)
+* prob201110.java: [code](./prob201110.java), [input file](./prob201110.txt)
+* prob201003.java: [code](./prob201003.java)
+* prob200915.java: [code](./prob200915.java), [input file](./prob200915.txt)
+* prob200803.java: [code](./prob200803.java), [input file](./prob200803.txt)
+* prob200702.java: [code](./prob200702.java), [input file](./prob200702.txt)
