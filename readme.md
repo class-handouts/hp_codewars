@@ -7,5 +7,6 @@ This guide is organized into for sections:
 2. [Loops & Arrays](./02_loops_arrays/readme.md)
 3. [Intermediate Problems](./03_intermediate_problems/readme.md)
 4. [Advanced Problems](./04_advanced_problems/readme.md)
+5. [Starter Code](./05_starter_code/readme.md)
 
 Be sure the read the _readme.md_ file in each of these 4 sections for directions.
